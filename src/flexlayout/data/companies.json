@@ -1,0 +1,416 @@
+[
+  {
+    "id": "UUID1",
+    "options": {
+      "selectedPage": {
+        "options": "Toyota",
+        "label": "Toyota"
+      }
+    }
+  },
+  {
+    "id": "UUID2",
+    "options": {
+      "selectedPage": {
+        "options": "Mitsubishi",
+        "label": "Mitsubishi"
+      }
+    }
+  },
+  {
+    "id": "UUID3",
+    "options": {
+      "selectedPage": {
+        "options": "Honda",
+        "label": "Honda"
+      }
+    }
+  },
+  {
+    "id": "UUID4",
+    "options": {
+      "selectedPage": {
+        "options": "Itochu",
+        "label": "Itochu"
+      }
+    }
+  },
+  {
+    "id": "UUID5",
+    "options": {
+      "selectedPage": {
+        "options": "Nippon Telegraph and Telephone",
+        "label": "Nippon Telegraph and Telephone"
+      }
+    }
+  },
+  {
+    "id": "UUID6",
+    "options": {
+      "selectedPage": {
+        "options": "Mitsui",
+        "label": "Mitsui"
+      }
+    }
+  },
+  {
+    "id": "UUID7",
+    "options": {
+      "selectedPage": {
+        "options": "Japan Post Holdings",
+        "label": "Japan Post Holdings"
+      }
+    }
+  },
+  {
+    "id": "UUID8",
+    "options": {
+      "selectedPage": {
+        "options": "Hitachi",
+        "label": "Hitachi"
+      }
+    }
+  },
+  {
+    "id": "UUID9",
+    "options": {
+      "selectedPage": {
+        "options": "Sony",
+        "label": "Sony"
+      }
+    }
+  },
+  {
+    "id": "UUID10",
+    "options": {
+      "selectedPage": {
+        "options": "ENEOS Holdings",
+        "label": "ENEOS Holdings"
+      }
+    }
+  },
+  {
+    "id": "UUID11",
+    "options": {
+      "selectedPage": {
+        "options": "Seven & I Holdings Co.",
+        "label": "Seven & I Holdings Co."
+      }
+    }
+  },
+  {
+    "id": "UUID12",
+    "options": {
+      "selectedPage": {
+        "options": "AEON",
+        "label": "AEON"
+      }
+    }
+  },
+  {
+    "id": "UUID13",
+    "options": {
+      "selectedPage": {
+        "options": "Marubeni",
+        "label": "Marubeni"
+      }
+    }
+  },
+  {
+    "id": "UUID14",
+    "options": {
+      "selectedPage": {
+        "options": "Nissan",
+        "label": "Nissan"
+      }
+    }
+  },
+  {
+    "id": "UUID15",
+    "options": {
+      "selectedPage": {
+        "options": "Nippon Life",
+        "label": "Nippon Life"
+      }
+    }
+  },
+  {
+    "id": "UUID16",
+    "options": {
+      "selectedPage": {
+        "options": "Dai-ichi Life",
+        "label": "Dai-ichi Life"
+      }
+    }
+  },
+  {
+    "id": "UUID17",
+    "options": {
+      "selectedPage": {
+        "options": "Toyota Tsusho",
+        "label": "Toyota Tsusho"
+      }
+    }
+  },
+  {
+    "id": "UUID18",
+    "options": {
+      "selectedPage": {
+        "options": "Panasonic",
+        "label": "Panasonic"
+      }
+    }
+  },
+  {
+    "id": "UUID19",
+    "options": {
+      "selectedPage": {
+        "options": "Nippon Steel",
+        "label": "Nippon Steel"
+      }
+    }
+  },
+  {
+    "id": "UUID20",
+    "options": {
+      "selectedPage": {
+        "options": "SoftBank Group",
+        "label": "SoftBank Group"
+      }
+    }
+  },
+  {
+    "id": "UUID21",
+    "options": {
+      "selectedPage": {
+        "options": "Mitsubishi UFJ Financial Group",
+        "label": "Mitsubishi UFJ Financial Group"
+      }
+    }
+  },
+  {
+    "id": "UUID22",
+    "options": {
+      "selectedPage": {
+        "options": "Idemitsu Kosan",
+        "label": "Idemitsu Kosan"
+      }
+    }
+  },
+  {
+    "id": "UUID23",
+    "options": {
+      "selectedPage": {
+        "options": "Tokio Marine",
+        "label": "Tokio Marine"
+      }
+    }
+  },
+  {
+    "id": "UUID24",
+    "options": {
+      "selectedPage": {
+        "options": "Denso",
+        "label": "Denso"
+      }
+    }
+  },
+  {
+    "id": "UUID25",
+    "options": {
+      "selectedPage": {
+        "options": "Sumitomo Group",
+        "label": "Sumitomo Group"
+      }
+    }
+  },
+  {
+    "id": "UUID26",
+    "options": {
+      "selectedPage": {
+        "options": "Tokyo Electric Power Company",
+        "label": "Tokyo Electric Power Company"
+      }
+    }
+  },
+  {
+    "id": "UUID27",
+    "options": {
+      "selectedPage": {
+        "options": "MS&AD Insurance Group",
+        "label": "MS&AD Insurance Group"
+      }
+    }
+  },
+  {
+    "id": "UUID28",
+    "options": {
+      "selectedPage": {
+        "options": "Mitsubishi Electric",
+        "label": "Mitsubishi Electric"
+      }
+    }
+  },
+  {
+    "id": "UUID29",
+    "options": {
+      "selectedPage": {
+        "options": "Daiwa House",
+        "label": "Daiwa House"
+      }
+    }
+  },
+  {
+    "id": "UUID30",
+    "options": {
+      "selectedPage": {
+        "options": "JFE Holdings",
+        "label": "JFE Holdings"
+      }
+    }
+  },
+  {
+    "id": "UUID31",
+    "options": {
+      "selectedPage": {
+        "options": "Meiji Yasuda Life",
+        "label": "Meiji Yasuda Life"
+      }
+    }
+  },
+  {
+    "id": "UUID32",
+    "options": {
+      "selectedPage": {
+        "options": "Sompo Holdings",
+        "label": "Sompo Holdings"
+      }
+    }
+  },
+  {
+    "id": "UUID33",
+    "options": {
+      "selectedPage": {
+        "options": "Sumitomo Mitsui Financial Group",
+        "label": "Sumitomo Mitsui Financial Group"
+      }
+    }
+  },
+  {
+    "id": "UUID34",
+    "options": {
+      "selectedPage": {
+        "options": "Mitsubishi Chemical Holdings",
+        "label": "Mitsubishi Chemical Holdings"
+      }
+    }
+  },
+  {
+    "id": "UUID35",
+    "options": {
+      "selectedPage": {
+        "options": "Mizuho Financial Group",
+        "label": "Mizuho Financial Group"
+      }
+    }
+  },
+  {
+    "id": "UUID36",
+    "options": {
+      "selectedPage": {
+        "options": "Aisin Seiki",
+        "label": "Aisin Seiki"
+      }
+    }
+  },
+  {
+    "id": "UUID37",
+    "options": {
+      "selectedPage": {
+        "options": "Mitsubishi Heavy Industries",
+        "label": "Mitsubishi Heavy Industries"
+      }
+    }
+  },
+  {
+    "id": "UUID38",
+    "options": {
+      "selectedPage": {
+        "options": "Sumitomo Life Insurance",
+        "label": "Sumitomo Life Insurance"
+      }
+    }
+  },
+  {
+    "id": "UUID39",
+    "options": {
+      "selectedPage": {
+        "options": "Canon Inc.",
+        "label": "Canon Inc."
+      }
+    }
+  },
+  {
+    "id": "UUID40",
+    "options": {
+      "selectedPage": {
+        "options": "Fujitsu",
+        "label": "Fujitsu"
+      }
+    }
+  },
+  {
+    "id": "UUID41",
+    "options": {
+      "selectedPage": {
+        "options": "Takeda Pharmaceutical",
+        "label": "Takeda Pharmaceutical"
+      }
+    }
+  },
+  {
+    "id": "UUID42",
+    "options": {
+      "selectedPage": {
+        "options": "Suzuki Motor",
+        "label": "Suzuki Motor"
+      }
+    }
+  },
+  {
+    "id": "UUID43",
+    "options": {
+      "selectedPage": {
+        "options": "Sumitomo Electric Industries",
+        "label": "Sumitomo Electric Industries"
+      }
+    }
+  },
+  {
+    "id": "UUID44",
+    "options": {
+      "selectedPage": {
+        "options": "Toshiba",
+        "label": "Toshiba"
+      }
+    }
+  },
+  {
+    "id": "UUID45",
+    "options": {
+      "selectedPage": {
+        "options": "Bridgestone",
+        "label": "Bridgestone"
+      }
+    }
+  },
+  {
+    "id": "UUID46",
+    "options": {
+      "selectedPage": {
+        "options": "Medipal Holdings",
+        "label": "Medipal Holdings"
+      }
+    }
+  }
+]
